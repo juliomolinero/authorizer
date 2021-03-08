@@ -1,0 +1,6 @@
+br/nubank/models/AccountTest.class
+br/nubank/services/TransactionServiceTest.class
+br/nubank/utils/UtilsTest.class
+br/nubank/services/AccountServiceTest.class
+br/nubank/models/TransactionTest.class
+br/nubank/services/OperationServiceTest.class

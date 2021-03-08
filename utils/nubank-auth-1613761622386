@@ -1,0 +1,9 @@
+{ account: { "activeCard": true, "availableLimit": 100 }, "violations": [] }
+{ account: { "activeCard": true, "availableLimit": 80 }, "violations": [] }
+{ account: { "activeCard": true, "availableLimit": 60 }, "violations": [] }
+{ account: { "activeCard": true, "availableLimit": 40 }, "violations": [] }
+{ account: { "activeCard": true, "availableLimit": 40 }, "violations": [ "insufficient-limit" ] }
+{ account: { "activeCard": true, "availableLimit": 40 }, "violations": [ "insufficient-limit" , "doubled-transaction" ] }
+{ account: { "activeCard": true, "availableLimit": 40 }, "violations": [ "insufficient-limit" , "doubled-transaction" ] }
+{ account: { "activeCard": true, "availableLimit": 40 }, "violations": [ "insufficient-limit" , "doubled-transaction" ] }
+{ account: { "activeCard": true, "availableLimit": 40 }, "violations": [ "account-already-initialized" ] }

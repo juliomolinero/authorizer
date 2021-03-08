@@ -1,0 +1,9 @@
+br/nubank/utils/Utils.class
+br/nubank/services/TransactionService.class
+br/nubank/services/OperationService.class
+br/nubank/configurations/Constants.class
+br/nubank/MainApp.class
+br/nubank/models/Transaction.class
+br/nubank/models/Account.class
+br/nubank/services/AccountService.class
+br/nubank/services/AccountValidation.class

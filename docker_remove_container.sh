@@ -1,0 +1,1 @@
+docker rm nubank-auth-svc
