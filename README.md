@@ -34,7 +34,7 @@ $ docker build --pull \
 ```
 
 ### Usage - Assuming Docker is installed [Get Docker](https://docs.docker.com/get-docker/)
-#####Run Docker image
+#### Run Docker image
 ```
 # This will execute and remove the container when is done
 # IMPORTANT!, no matter if you want to use another volume "utils" folder MUST exist
@@ -49,7 +49,7 @@ $ docker run -i --rm \
 2021-02-19 19:18:03 INFO  MainApp:57 - 9 lines processed, check out on file nubank-auth-1613762282909 for details
 ```
 
-![Nubank utils_folder](nubank-utils.png)
+
 
 ```
 $ cat nubank-auth-1613762282909
